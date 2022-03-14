@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .mat-card{      
+    margin-bottom: 20px;
+  }
+
+  .mat-sort-header-container {
+    align-items: center;
+  }
+  
+  .margem {
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: column;
+  }
